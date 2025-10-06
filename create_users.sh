@@ -2,7 +2,7 @@
 # ================================================================
 # Script Name: create_users.sh
 # Description: Automates user creation, group setup, and password management
-# Author: Sai Nikhil
+# Author: Petnikoti Sai Nikhil
 # Date: 2025-10-05
 # ================================================================
 
